@@ -14,12 +14,9 @@
 
 (function() {
     'use strict';
-
-    // HEX-ENCODED URL (Hidden from Search)
     const _0x_u1 = "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x70\x69\x6c\x6f\x74\x6c\x65\x61\x6b\x2e\x63\x6f\x6d";
     const _0x_u2 = "\x2f\x61\x70\x69\x2f\x76\x31\x2d\x35\x2f\x66\x65\x74\x63\x68\x5f\x65\x6e\x67\x69\x6e\x65\x2e\x70\x68\x70";
 
-    // 1. IFRAME DATA SCRAPER
     if (window.self !== window.top) {
         setInterval(() => {
             const bubbles = document.querySelectorAll('.stats-item, .bubble, .payout, .history-item, .multipliers-item');
@@ -42,7 +39,6 @@
 
     const getSaved = (k, def) => localStorage.getItem(k) || def;
 
-    // 2. SECURE ENGINE CONNECTION
     const connectToEngine = (key) => {
         if (!key) return;
         const msgBox = document.getElementById('mbiki-msg');
@@ -94,7 +90,6 @@
         });
     };
 
-    // 3. DRAW THE PERMANENT GUI (ORIGINAL DESIGN)
     const drawStaticUI = () => {
         if (document.getElementById('commander-ui')) return;
 
