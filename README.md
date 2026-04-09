@@ -51,6 +51,7 @@ This edition includes the finalized **Financial Master Pro** suite:
 4. **Create Script:** * Click the Tampermonkey icon -> **Create a new script**.
    * Paste the code from `INDEX.js`.
    * Press `Ctrl+S` (or File > Save).
+   * repeat the process to create and save another script with the code inside autoplay.js
 5. **Launch:** Open your preferred site; the **MBIKI-AVIATOR-MASTER** interface will appear automatically.
 </details>
 
@@ -67,7 +68,7 @@ Installation and licensing are managed exclusively via the authorized portal:
 1. Visit [pilotleak.com/license](https://www.pilotleak.com/license) to obtain a secure activation key.
 2. Paste the key into the activation field within the tool UI.
 3. **Save** your access key to enable full functionality.
-4. **Note:** Ensure you reactivate the tool upon expiry to maintain access.
+4. **Note:** Ensure you copy correct master access key. NO NEED TO ACTIVAT IT IN THE NEW VERSION. YOU WILL SIMPLY BE CHARGED 30% OF THE PROFIT MADE WHICH IS EASILY PAYABLE VIA THE MBIKI AVIATOR MASTER PRO GUI WHEN PROMPTED.
 
 ---
 <hr>
