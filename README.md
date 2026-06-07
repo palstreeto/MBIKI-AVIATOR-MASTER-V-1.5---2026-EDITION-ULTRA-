@@ -2,7 +2,7 @@
 <p align="center"><b>2026 EDITION - ULTRA</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.5_Ultra-blueviolet?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.5_Ultra-blueviolet?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Security-Vision--Based_Tracking-green?style=for-the-badge" alt="Security">
   <img src="https://img.shields.io/badge/Platform-Tampermonkey-orange?style=for-the-badge" alt="Platform">
 </p>
@@ -10,7 +10,7 @@
 ---
 
 ### 📖 Description
-**Mbiki Aviator Master Pro V-1.5 (Ultra)** is a structured session-control and risk-management overlay framework designed for multiplier-based crash gaming environments. The system introduces automated guardrails, volatility detection, and behavioral discipline enforcement mechanisms.
+**PILOTLEAK Aviator Master Pro V-2.5 (Ultra)** is a structured session-control and risk-management overlay framework designed for multiplier-based crash gaming environments. The system introduces automated guardrails, volatility detection, and behavioral discipline enforcement mechanisms.
 
 ### 🛠 2026 Ultra Configuration
 This edition includes the finalized **Financial Master Pro** suite:
